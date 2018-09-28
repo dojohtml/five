@@ -1,3 +1,6 @@
+# PEGAMOS DO BOOTSTRAP MESMO
+O mais próximo que verás de um site nesse GitHub. Temos várias recomendações de lugares fantásticos e desconhecidos do RJ para você conhcer. SPOILER: A batata de Marechal é sensacional recomendamos!. 
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
